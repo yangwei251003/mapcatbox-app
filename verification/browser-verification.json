@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "syntheticIdentity": true,
+  "modes": [
+    {
+      "width": 1440,
+      "mobileTouch": false,
+      "initialStrays": 8,
+      "syntheticOriginMarkers": 1,
+      "imageOverlay": 1,
+      "remoteTiles": 0,
+      "feedPlayPetPersisted": true,
+      "profileEditPersisted": true,
+      "notificationReadPersisted": true,
+      "passwordAndEmailInputsInDemo": 0,
+      "gpsCalls": 0,
+      "externalRequests": [],
+      "scriptErrors": [],
+      "failedResources": [],
+      "overflow": false,
+      "adoptionWipAlertPreserved": true
+    },
+    {
+      "width": 390,
+      "mobileTouch": true,
+      "initialStrays": 8,
+      "syntheticOriginMarkers": 1,
+      "imageOverlay": 1,
+      "remoteTiles": 0,
+      "feedPlayPetPersisted": true,
+      "profileEditPersisted": true,
+      "notificationReadPersisted": true,
+      "passwordAndEmailInputsInDemo": 0,
+      "gpsCalls": 0,
+      "externalRequests": [],
+      "scriptErrors": [],
+      "failedResources": [],
+      "overflow": false,
+      "adoptionWipAlertPreserved": true
+    }
+  ],
+  "cloudBackendTested": false,
+  "currentSignals": {
+    "width": 390,
+    "gps": 0,
+    "external": [],
+    "errors": [],
+    "failed": [],
+    "overflow": false
+  },
+  "completeNoticesActuallyDistributed": true,
+  "projectMitActuallyDistributed": true
+}

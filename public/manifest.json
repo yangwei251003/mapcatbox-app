@@ -1,0 +1,18 @@
+{
+  "name": "地图猫箱 · 离线合成演示",
+  "short_name": "合成猫箱",
+  "description": "开发中原型；虚构数学网格，无真实位置或账号",
+  "start_url": "./map/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFBF5",
+  "theme_color": "#F59E6B",
+  "icons": [
+    {
+      "src": "./cat-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

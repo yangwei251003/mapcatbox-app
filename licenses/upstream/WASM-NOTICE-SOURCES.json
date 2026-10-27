@@ -1,0 +1,26 @@
+[
+  {
+    "file": "napi-wasm-runtime-1.1.6-MIT.txt",
+    "identity": "@napi-rs/wasm-runtime@1.1.6",
+    "url": "https://raw.githubusercontent.com/napi-rs/napi-rs/b77119e711704cc453949e056b45a4996ea0386c/LICENSE",
+    "sha256": "3f1ce66533302df3a32edbfdfc0b78f0dd34659e4c1f5817162e5ea3c2297215",
+    "checked": "2026-10-26",
+    "note": "Exact npm gitHead repository root license; includes both upstream MIT copyright notices."
+  },
+  {
+    "file": "tybys-wasm-util-0.10.3-MIT.txt",
+    "identity": "@tybys/wasm-util@0.10.3",
+    "url": "https://raw.githubusercontent.com/toyobayashi/wasm-util/main/LICENSE",
+    "sha256": "09e436100bf926e78df875ec80cf3d0c643dfec779b52cfe2aa96afa0de714cb",
+    "checked": "2026-10-26",
+    "note": "npm gitHead package.json declares MIT, but LICENSE at that exact commit is absent (404). Full MIT text/copyright supplemented from current official maintainer repository; not falsely described as an npm-bundled or old-commit file."
+  },
+  {
+    "file": "unrs-resolver-1.12.2-MIT.txt",
+    "identity": "@unrs/resolver-binding-linux-x64-gnu@1.12.2",
+    "url": "https://raw.githubusercontent.com/unrs/unrs-resolver/ccb26d205e2938b16069c64a28996b48ee97ff94/LICENSE",
+    "sha256": "a9e35996693bd619302922c731fa2f620ad12d5f50b19a37c8a3e0e078c9bd2f",
+    "checked": "2026-10-27",
+    "note": "Exact npm package gitHead repository root license; platform binding has no bundled notice. This records the package license, not a claim about independent third-party binary components."
+  }
+]

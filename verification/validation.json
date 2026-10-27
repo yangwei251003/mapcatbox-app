@@ -1,0 +1,25 @@
+{
+  "checked": "2026-10-26",
+  "status": "PASS only for synthetic offline frontend",
+  "install": "npm ci --offline --no-audit: 399 packages",
+  "lockRecords": 474,
+  "lockRecordsWithoutIntegrityExcludingRoot": 0,
+  "lintErrors": 0,
+  "lintWarnings": 0,
+  "typecheck": true,
+  "unitTests": {
+    "passed": 4,
+    "kind": "synthetic location samples, fake monotonic clock and fake asynchronous writer, no GPS or database"
+  },
+  "rootBuildPassed": true,
+  "finalSubpathBuildPassed": true,
+  "browserWidths": [
+    1440,
+    390
+  ],
+  "sourceGitleaks": "See final local audit report; not an absolute credential absence guarantee",
+  "databaseConnected": false,
+  "migrationExecuted": false,
+  "realGpsTested": false,
+  "originalProjectDeletionReady": false
+}

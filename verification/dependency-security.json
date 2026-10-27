@@ -1,0 +1,18 @@
+{
+  "checked": "2026-10-26",
+  "npmAudit": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  },
+  "versions": {
+    "next": "16.4.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "sharp": "0.35.5"
+  },
+  "limitation": "Dependency advisory snapshot; not a production security certification or database audit."
+}
